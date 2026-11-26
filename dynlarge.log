@@ -1,0 +1,12 @@
+Paley1020_cool1: cooling, leaves the paramagnetic curve at T = 0.1, final quench m = 0.9365
+Paley1020_cool2: cooling, leaves the paramagnetic curve at T = 0.1, final quench m = 0.9364
+W1024_cool1: cooling, leaves the paramagnetic curve at T = 0.175, final quench m = 0.9480
+W1024_cool2: cooling, leaves the paramagnetic curve at T = 0.2, final quench m = 0.9557
+W1024_cool3: cooling, leaves the paramagnetic curve at T = 0.175, final quench m = 0.9501
+W1024_cool4: cooling, leaves the paramagnetic curve at T = 0.2, final quench m = 0.9490
+W1024_heat1: heating from a crystal, m = 0.9823 at T = 0.35, melted (m < 0.9) at T = 0.4
+W1024_heat2: heating from a crystal, m = 0.9821 at T = 0.35, melted (m < 0.9) at T = 0.375
+W1024_slow1: cooling, leaves the paramagnetic curve at T = 0.2, final quench m = 0.9509
+W1024_slow2: cooling, leaves the paramagnetic curve at T = 0.2, final quench m = 0.9514
+W4096_cool1: cooling, leaves the paramagnetic curve at T = 0.1, final quench m = 0.9362
+W4096_heat1: heating from a crystal, m = 0.9824 at T = 0.35, melted (m < 0.9) at T = 0.4

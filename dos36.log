@@ -1,0 +1,25 @@
+1/9 had36_latin00.txt: 361 multisets, top level 216 with 6660 states, 0s
+2/9 had36_latin01.txt: 352 multisets, top level 216 with 7594 states, 0s
+3/9 had36_latin02.txt: 332 multisets, top level 216 with 9792 states, 0s
+4/9 had36_latin03.txt: 346 multisets, top level 216 with 10656 states, 0s
+5/9 had36_latin04.txt: 351 multisets, top level 216 with 7120 states, 0s
+6/9 had36_latin05.txt: 351 multisets, top level 216 with 8096 states, 0s
+7/9 had36_latin06.txt: 335 multisets, top level 216 with 46880 states, 0s
+8/9 had36_latin07.txt: 356 multisets, top level 216 with 7460 states, 0s
+9/9 had36_paley.txt: 290 multisets, top level 216 with 816 states, 0s
+
+moments up to E(Omega^14) identical for all 9 matrices: True
+order 16 formula E(Omega^16) - E'(Omega^16) = (2^8 16!/4!)(P4 - P4') holds for all: True
+distinct values of P4: 9
+distinct densities of states: 9
+rank of the differences of the densities of states: 8
+ground state level Omega and degeneracy, with the number of matrices:
+   Omega = 216 = 1.0000 N^(3/2), 46880 ground states: 1 matrices
+   Omega = 216 = 1.0000 N^(3/2), 10656 ground states: 1 matrices
+   Omega = 216 = 1.0000 N^(3/2), 9792 ground states: 1 matrices
+   Omega = 216 = 1.0000 N^(3/2), 8096 ground states: 1 matrices
+   Omega = 216 = 1.0000 N^(3/2), 7594 ground states: 1 matrices
+   Omega = 216 = 1.0000 N^(3/2), 7460 ground states: 1 matrices
+   Omega = 216 = 1.0000 N^(3/2), 7120 ground states: 1 matrices
+   Omega = 216 = 1.0000 N^(3/2), 6660 ground states: 1 matrices
+   Omega = 216 = 1.0000 N^(3/2), 816 ground states: 1 matrices

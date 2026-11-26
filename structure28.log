@@ -1,0 +1,8 @@
+N = 28: 487 matrices, 294 distinct densities of states
+rank of the differences of the densities of states: 4
+first differing moment, over the 43071 pairs of distinct densities of states: {16: 42159, 24: 911, 28: 1}
+rank of the differences of the moments of order 16, 18, 20, 22: 1
+N = 28: n_H is an affine function of P4(H) and of the numbers of b with |Hb| = (2^7,6^21), (4^21,8^7), (2^9,6^18,10): True
+N = 28: with A, B, C these 3 numbers, n_H(140) = 2(A+B) and n_H(136) = 2(C+7A), for all: True
+N = 28: F_242 - F_313 = 16 (y - 1/y)^28 (y + 1/y)^7, with F_H(y) = sum n_H(w) y^(w/4): True
+   294 distinct parameter vectors; ground state levels: [140]

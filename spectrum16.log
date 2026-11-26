@@ -1,0 +1,7 @@
+had16_0: n(64) = 896 = 2^(14-r) - 128 with r = 4: True;  one-parameter formula holds: True
+had16_1: n(64) = 384 = 2^(14-r) - 128 with r = 5: True;  one-parameter formula holds: True
+had16_2: n(64) = 128 = 2^(14-r) - 128 with r = 6: True;  one-parameter formula holds: True
+had16_3: n(64) = 0 = 2^(14-r) - 128 with r = 7: True;  one-parameter formula holds: True
+had16_4: n(64) = 0 = 2^(14-r) - 128 with r = 7: True;  one-parameter formula holds: True
+density of states of had16.3, n(w) for w = 0, 4, ..., 64:
+{0: 608993280, 4: 196933632, 8: 546846720, 12: 162593280, 16: 409903104, 20: 105853440, 24: 228501504, 28: 51287040, 32: 94617600, 36: 17052672, 40: 23623680, 44: 2989568, 48: 2580480, 52: 161280, 56: 43008, 60: 0, 64: 0}

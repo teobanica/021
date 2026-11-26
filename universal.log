@@ -1,0 +1,7 @@
+E(Omega^2) = 1N^2   (checked on all 7 orders: True, using 3 of them)
+E(Omega^4) = 3N^4 - 6N^3 + 4N^2   (checked on all 7 orders: True, using 5 of them)
+E(Omega^6) = 15N^6 - 90N^5 + 300N^4 - 480N^3 + 256N^2   (checked on all 7 orders: True, using 7 of them)
+kappa_2 = 1N^2   (checked on all orders: True; predicted leading coefficient 1)
+kappa_4 = -6N^3 + 4N^2   (checked on all orders: True; predicted leading coefficient -6)
+kappa_6 = 240N^4 - 480N^3 + 256N^2   (checked on all orders: True; predicted leading coefficient 240)
+kappa_8 = -25200N^5 + 104160N^4 - 153216N^3 + 73984N^2   (checked on all orders: True; predicted leading coefficient -25200)

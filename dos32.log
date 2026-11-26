@@ -1,0 +1,618 @@
+1/360 had32_d00_00001.txt: 131 multisets, top level 168 with 98304 states, 0s
+2/360 had32_d00_00016.txt: 131 multisets, top level 168 with 73728 states, 0s
+3/360 had32_d00_00031.txt: 131 multisets, top level 168 with 106496 states, 0s
+4/360 had32_d00_00046.txt: 131 multisets, top level 168 with 90112 states, 0s
+5/360 had32_d00_00061.txt: 131 multisets, top level 168 with 57344 states, 0s
+6/360 had32_d00_00076.txt: 131 multisets, top level 168 with 106496 states, 0s
+7/360 had32_d00_00106.txt: 114 multisets, top level 168 with 114688 states, 0s
+8/360 had32_d00_00166.txt: 131 multisets, top level 168 with 98304 states, 0s
+9/360 had32_d00_00181.txt: 114 multisets, top level 168 with 122880 states, 0s
+10/360 had32_d00_00211.txt: 131 multisets, top level 168 with 90112 states, 0s
+11/360 had32_d00_00241.txt: 131 multisets, top level 168 with 65536 states, 0s
+12/360 had32_d00_00301.txt: 131 multisets, top level 168 with 114688 states, 0s
+13/360 had32_d00_00316.txt: 114 multisets, top level 168 with 98304 states, 0s
+14/360 had32_d01_00002.txt: 156 multisets, top level 168 with 187392 states, 0s
+15/360 had32_d01_00017.txt: 156 multisets, top level 168 with 164864 states, 0s
+16/360 had32_d01_00032.txt: 139 multisets, top level 168 with 165888 states, 0s
+17/360 had32_d01_00047.txt: 156 multisets, top level 168 with 144384 states, 0s
+18/360 had32_d01_00062.txt: 156 multisets, top level 168 with 165888 states, 0s
+19/360 had32_d01_00077.txt: 156 multisets, top level 168 with 177152 states, 0s
+20/360 had32_d01_00092.txt: 156 multisets, top level 168 with 161792 states, 0s
+21/360 had32_d01_00107.txt: 156 multisets, top level 168 with 177152 states, 0s
+22/360 had32_d01_00122.txt: 156 multisets, top level 168 with 186368 states, 0s
+23/360 had32_d01_00152.txt: 156 multisets, top level 168 with 165888 states, 0s
+24/360 had32_d01_00167.txt: 156 multisets, top level 168 with 173056 states, 0s
+25/360 had32_d01_00182.txt: 156 multisets, top level 168 with 182272 states, 0s
+26/360 had32_d01_00227.txt: 156 multisets, top level 168 with 171008 states, 0s
+27/360 had32_d01_00257.txt: 156 multisets, top level 168 with 179200 states, 0s
+28/360 had32_d01_00272.txt: 156 multisets, top level 168 with 178176 states, 0s
+29/360 had32_d01_00287.txt: 156 multisets, top level 168 with 158720 states, 0s
+30/360 had32_d01_00302.txt: 156 multisets, top level 168 with 130048 states, 0s
+31/360 had32_d01_00347.txt: 156 multisets, top level 168 with 111616 states, 0s
+32/360 had32_d01_00362.txt: 156 multisets, top level 168 with 144384 states, 0s
+33/360 had32_d01_00377.txt: 156 multisets, top level 168 with 173056 states, 0s
+34/360 had32_d01_00392.txt: 156 multisets, top level 168 with 168960 states, 0s
+35/360 had32_d02_00003.txt: 156 multisets, top level 168 with 189952 states, 0s
+36/360 had32_d02_00018.txt: 156 multisets, top level 168 with 207872 states, 0s
+37/360 had32_d02_00033.txt: 156 multisets, top level 168 with 214016 states, 0s
+38/360 had32_d02_00048.txt: 156 multisets, top level 168 with 211968 states, 0s
+39/360 had32_d02_00063.txt: 156 multisets, top level 168 with 218112 states, 0s
+40/360 had32_d02_00078.txt: 156 multisets, top level 168 with 215552 states, 0s
+41/360 had32_d02_00093.txt: 156 multisets, top level 168 with 205312 states, 0s
+42/360 had32_d02_00108.txt: 156 multisets, top level 168 with 202752 states, 0s
+43/360 had32_d02_00123.txt: 156 multisets, top level 168 with 204288 states, 0s
+44/360 had32_d02_00138.txt: 156 multisets, top level 168 with 197120 states, 0s
+45/360 had32_d02_00153.txt: 139 multisets, top level 168 with 207872 states, 0s
+46/360 had32_d02_00168.txt: 156 multisets, top level 168 with 225792 states, 0s
+47/360 had32_d02_00183.txt: 156 multisets, top level 168 with 215040 states, 0s
+48/360 had32_d02_00198.txt: 156 multisets, top level 168 with 220672 states, 0s
+49/360 had32_d02_00213.txt: 156 multisets, top level 168 with 221696 states, 0s
+50/360 had32_d02_00228.txt: 156 multisets, top level 168 with 170496 states, 0s
+51/360 had32_d02_00243.txt: 156 multisets, top level 168 with 219648 states, 0s
+52/360 had32_d02_00273.txt: 156 multisets, top level 168 with 200704 states, 0s
+53/360 had32_d02_00288.txt: 156 multisets, top level 168 with 202240 states, 0s
+54/360 had32_d02_00303.txt: 156 multisets, top level 168 with 216064 states, 0s
+55/360 had32_d02_00333.txt: 156 multisets, top level 168 with 226816 states, 0s
+56/360 had32_d02_00348.txt: 156 multisets, top level 168 with 202240 states, 0s
+57/360 had32_d02_00363.txt: 156 multisets, top level 168 with 199168 states, 0s
+58/360 had32_d02_00378.txt: 156 multisets, top level 168 with 217600 states, 0s
+59/360 had32_d02_00393.txt: 156 multisets, top level 168 with 216576 states, 0s
+60/360 had32_d03_00004.txt: 156 multisets, top level 168 with 219648 states, 0s
+61/360 had32_d03_00019.txt: 156 multisets, top level 168 with 226304 states, 0s
+62/360 had32_d03_00034.txt: 156 multisets, top level 168 with 240128 states, 0s
+63/360 had32_d03_00049.txt: 156 multisets, top level 168 with 233472 states, 0s
+64/360 had32_d03_00064.txt: 156 multisets, top level 168 with 232960 states, 0s
+65/360 had32_d03_00079.txt: 156 multisets, top level 168 with 234496 states, 0s
+66/360 had32_d03_00109.txt: 156 multisets, top level 168 with 241152 states, 0s
+67/360 had32_d03_00124.txt: 156 multisets, top level 168 with 233984 states, 0s
+68/360 had32_d03_00139.txt: 156 multisets, top level 168 with 240640 states, 0s
+69/360 had32_d03_00154.txt: 156 multisets, top level 168 with 208384 states, 0s
+70/360 had32_d03_00169.txt: 156 multisets, top level 168 with 250880 states, 0s
+71/360 had32_d03_00244.txt: 156 multisets, top level 168 with 228352 states, 0s
+72/360 had32_d03_00259.txt: 156 multisets, top level 168 with 245248 states, 0s
+73/360 had32_d03_00274.txt: 156 multisets, top level 168 with 221184 states, 0s
+74/360 had32_d03_00289.txt: 156 multisets, top level 168 with 225280 states, 0s
+75/360 had32_d03_00304.txt: 156 multisets, top level 168 with 202752 states, 0s
+76/360 had32_d03_00319.txt: 156 multisets, top level 168 with 236544 states, 0s
+77/360 had32_d03_00334.txt: 156 multisets, top level 168 with 233472 states, 0s
+78/360 had32_d03_00349.txt: 156 multisets, top level 168 with 240640 states, 1s
+79/360 had32_d03_00364.txt: 156 multisets, top level 168 with 238080 states, 1s
+80/360 had32_d03_00394.txt: 156 multisets, top level 168 with 241152 states, 1s
+81/360 had32_d04_00005.txt: 156 multisets, top level 168 with 217600 states, 1s
+82/360 had32_d04_00020.txt: 156 multisets, top level 168 with 224768 states, 1s
+83/360 had32_d04_00035.txt: 154 multisets, top level 168 with 151552 states, 1s
+84/360 had32_d04_00050.txt: 156 multisets, top level 168 with 219136 states, 1s
+85/360 had32_d04_00065.txt: 156 multisets, top level 168 with 236544 states, 1s
+86/360 had32_d04_00080.txt: 156 multisets, top level 168 with 218112 states, 1s
+87/360 had32_d04_00110.txt: 156 multisets, top level 168 with 244736 states, 1s
+88/360 had32_d04_00125.txt: 156 multisets, top level 168 with 220160 states, 1s
+89/360 had32_d04_00140.txt: 156 multisets, top level 168 with 246272 states, 1s
+90/360 had32_d04_00170.txt: 156 multisets, top level 168 with 210944 states, 1s
+91/360 had32_d04_00215.txt: 156 multisets, top level 168 with 224768 states, 1s
+92/360 had32_d04_00230.txt: 156 multisets, top level 168 with 228352 states, 1s
+93/360 had32_d04_00245.txt: 156 multisets, top level 168 with 236544 states, 1s
+94/360 had32_d04_00290.txt: 156 multisets, top level 168 with 232448 states, 1s
+95/360 had32_d04_00335.txt: 156 multisets, top level 168 with 237056 states, 1s
+96/360 had32_d04_00365.txt: 156 multisets, top level 168 with 247808 states, 1s
+97/360 had32_d04_00380.txt: 156 multisets, top level 168 with 231424 states, 1s
+98/360 had32_d04_00395.txt: 156 multisets, top level 168 with 212992 states, 1s
+99/360 had32_d11_00006.txt: 165 multisets, top level 168 with 191488 states, 1s
+100/360 had32_d11_00021.txt: 163 multisets, top level 168 with 229376 states, 1s
+101/360 had32_d11_00036.txt: 162 multisets, top level 168 with 214272 states, 1s
+102/360 had32_d11_00051.txt: 162 multisets, top level 168 with 220928 states, 1s
+103/360 had32_d11_00066.txt: 165 multisets, top level 168 with 226816 states, 1s
+104/360 had32_d11_00081.txt: 164 multisets, top level 168 with 224256 states, 1s
+105/360 had32_d11_00096.txt: 162 multisets, top level 168 with 224768 states, 1s
+106/360 had32_d11_00111.txt: 164 multisets, top level 168 with 216576 states, 1s
+107/360 had32_d11_00126.txt: 162 multisets, top level 168 with 220672 states, 1s
+108/360 had32_d11_00141.txt: 164 multisets, top level 168 with 234752 states, 1s
+109/360 had32_d11_00156.txt: 164 multisets, top level 168 with 216064 states, 1s
+110/360 had32_d11_00171.txt: 165 multisets, top level 168 with 232960 states, 1s
+111/360 had32_d11_00186.txt: 165 multisets, top level 168 with 213504 states, 1s
+112/360 had32_d11_00201.txt: 166 multisets, top level 168 with 224256 states, 1s
+113/360 had32_d11_00216.txt: 164 multisets, top level 168 with 224512 states, 1s
+114/360 had32_d11_00231.txt: 163 multisets, top level 168 with 219648 states, 1s
+115/360 had32_d11_00246.txt: 165 multisets, top level 168 with 231424 states, 1s
+116/360 had32_d11_00261.txt: 163 multisets, top level 168 with 215040 states, 1s
+117/360 had32_d11_00276.txt: 162 multisets, top level 168 with 218624 states, 1s
+118/360 had32_d11_00291.txt: 162 multisets, top level 168 with 231168 states, 1s
+119/360 had32_d11_00306.txt: 162 multisets, top level 168 with 219648 states, 1s
+120/360 had32_d11_00321.txt: 163 multisets, top level 168 with 205312 states, 1s
+121/360 had32_d11_00336.txt: 162 multisets, top level 168 with 223488 states, 1s
+122/360 had32_d11_00351.txt: 161 multisets, top level 168 with 192000 states, 1s
+123/360 had32_d11_00366.txt: 165 multisets, top level 168 with 230912 states, 1s
+124/360 had32_d11_00381.txt: 163 multisets, top level 168 with 218112 states, 1s
+125/360 had32_d11_00396.txt: 162 multisets, top level 168 with 215552 states, 1s
+126/360 had32_d12_00007.txt: 166 multisets, top level 168 with 247168 states, 1s
+127/360 had32_d12_00022.txt: 163 multisets, top level 168 with 243200 states, 1s
+128/360 had32_d12_00037.txt: 163 multisets, top level 168 with 247552 states, 1s
+129/360 had32_d12_00052.txt: 165 multisets, top level 168 with 250368 states, 1s
+130/360 had32_d12_00067.txt: 165 multisets, top level 168 with 245888 states, 1s
+131/360 had32_d12_00082.txt: 163 multisets, top level 168 with 234496 states, 1s
+132/360 had32_d12_00097.txt: 166 multisets, top level 168 with 226432 states, 1s
+133/360 had32_d12_00112.txt: 162 multisets, top level 168 with 226816 states, 1s
+134/360 had32_d12_00127.txt: 164 multisets, top level 168 with 236032 states, 1s
+135/360 had32_d12_00142.txt: 162 multisets, top level 168 with 206336 states, 1s
+136/360 had32_d12_00157.txt: 166 multisets, top level 168 with 238464 states, 1s
+137/360 had32_d12_00172.txt: 165 multisets, top level 168 with 226304 states, 1s
+138/360 had32_d12_00187.txt: 166 multisets, top level 168 with 249344 states, 1s
+139/360 had32_d12_00202.txt: 165 multisets, top level 168 with 246656 states, 1s
+140/360 had32_d12_00217.txt: 165 multisets, top level 168 with 237056 states, 1s
+141/360 had32_d12_00232.txt: 162 multisets, top level 168 with 233856 states, 1s
+142/360 had32_d12_00247.txt: 165 multisets, top level 168 with 220160 states, 1s
+143/360 had32_d12_00262.txt: 162 multisets, top level 168 with 250752 states, 1s
+144/360 had32_d12_00277.txt: 166 multisets, top level 168 with 241536 states, 1s
+145/360 had32_d12_00292.txt: 164 multisets, top level 168 with 246656 states, 1s
+146/360 had32_d12_00307.txt: 166 multisets, top level 168 with 257536 states, 1s
+147/360 had32_d12_00322.txt: 165 multisets, top level 168 with 247808 states, 1s
+148/360 had32_d12_00337.txt: 165 multisets, top level 168 with 252544 states, 1s
+149/360 had32_d12_00352.txt: 163 multisets, top level 168 with 234112 states, 1s
+150/360 had32_d12_00367.txt: 165 multisets, top level 168 with 242688 states, 1s
+151/360 had32_d12_00382.txt: 163 multisets, top level 168 with 235648 states, 1s
+152/360 had32_d12_00397.txt: 163 multisets, top level 168 with 246016 states, 1s
+153/360 had32_d13_00008.txt: 165 multisets, top level 168 with 246272 states, 1s
+154/360 had32_d13_00023.txt: 165 multisets, top level 168 with 237056 states, 1s
+155/360 had32_d13_00038.txt: 166 multisets, top level 168 with 261376 states, 1s
+156/360 had32_d13_00053.txt: 163 multisets, top level 168 with 240128 states, 1s
+157/360 had32_d13_00068.txt: 165 multisets, top level 168 with 267520 states, 1s
+158/360 had32_d13_00083.txt: 165 multisets, top level 168 with 258048 states, 1s
+159/360 had32_d13_00098.txt: 163 multisets, top level 168 with 251136 states, 1s
+160/360 had32_d13_00113.txt: 165 multisets, top level 168 with 251392 states, 1s
+161/360 had32_d13_00128.txt: 166 multisets, top level 168 with 264960 states, 1s
+162/360 had32_d13_00143.txt: 165 multisets, top level 168 with 255488 states, 1s
+163/360 had32_d13_00158.txt: 164 multisets, top level 168 with 237568 states, 1s
+164/360 had32_d13_00173.txt: 164 multisets, top level 168 with 255488 states, 1s
+165/360 had32_d13_00188.txt: 166 multisets, top level 168 with 253952 states, 1s
+166/360 had32_d13_00203.txt: 165 multisets, top level 168 with 265728 states, 1s
+167/360 had32_d13_00218.txt: 165 multisets, top level 168 with 272640 states, 1s
+168/360 had32_d13_00233.txt: 165 multisets, top level 168 with 267264 states, 1s
+169/360 had32_d13_00248.txt: 166 multisets, top level 168 with 250112 states, 1s
+170/360 had32_d13_00263.txt: 166 multisets, top level 168 with 265216 states, 1s
+171/360 had32_d13_00278.txt: 166 multisets, top level 168 with 243456 states, 1s
+172/360 had32_d13_00293.txt: 166 multisets, top level 168 with 260096 states, 1s
+173/360 had32_d13_00308.txt: 165 multisets, top level 168 with 258304 states, 1s
+174/360 had32_d13_00323.txt: 166 multisets, top level 168 with 250624 states, 1s
+175/360 had32_d13_00338.txt: 165 multisets, top level 168 with 266496 states, 1s
+176/360 had32_d13_00353.txt: 165 multisets, top level 168 with 260352 states, 1s
+177/360 had32_d13_00368.txt: 165 multisets, top level 168 with 263168 states, 1s
+178/360 had32_d13_00383.txt: 165 multisets, top level 168 with 244736 states, 1s
+179/360 had32_d14_00009.txt: 164 multisets, top level 168 with 259072 states, 1s
+180/360 had32_d14_00024.txt: 166 multisets, top level 168 with 248192 states, 1s
+181/360 had32_d14_00039.txt: 165 multisets, top level 168 with 265984 states, 1s
+182/360 had32_d14_00054.txt: 163 multisets, top level 168 with 257536 states, 1s
+183/360 had32_d14_00069.txt: 166 multisets, top level 168 with 244736 states, 1s
+184/360 had32_d14_00084.txt: 165 multisets, top level 168 with 244736 states, 1s
+185/360 had32_d14_00099.txt: 166 multisets, top level 168 with 258816 states, 1s
+186/360 had32_d14_00114.txt: 166 multisets, top level 168 with 257536 states, 1s
+187/360 had32_d14_00129.txt: 166 multisets, top level 168 with 260864 states, 1s
+188/360 had32_d14_00144.txt: 163 multisets, top level 168 with 251648 states, 1s
+189/360 had32_d14_00159.txt: 165 multisets, top level 168 with 261888 states, 1s
+190/360 had32_d14_00174.txt: 163 multisets, top level 168 with 251392 states, 1s
+191/360 had32_d14_00189.txt: 165 multisets, top level 168 with 254464 states, 1s
+192/360 had32_d14_00204.txt: 163 multisets, top level 168 with 242432 states, 1s
+193/360 had32_d14_00219.txt: 165 multisets, top level 168 with 253696 states, 1s
+194/360 had32_d14_00234.txt: 166 multisets, top level 168 with 238080 states, 1s
+195/360 had32_d14_00249.txt: 166 multisets, top level 168 with 243968 states, 1s
+196/360 had32_d14_00264.txt: 164 multisets, top level 168 with 257792 states, 1s
+197/360 had32_d14_00279.txt: 166 multisets, top level 168 with 257408 states, 1s
+198/360 had32_d14_00294.txt: 165 multisets, top level 168 with 254080 states, 1s
+199/360 had32_d14_00309.txt: 162 multisets, top level 168 with 248320 states, 1s
+200/360 had32_d14_00324.txt: 166 multisets, top level 168 with 248448 states, 1s
+201/360 had32_d14_00339.txt: 166 multisets, top level 168 with 245632 states, 1s
+202/360 had32_d14_00354.txt: 166 multisets, top level 168 with 255360 states, 1s
+203/360 had32_d14_00369.txt: 166 multisets, top level 168 with 253440 states, 1s
+204/360 had32_d14_00384.txt: 165 multisets, top level 168 with 260224 states, 1s
+205/360 had32_d22_00010.txt: 163 multisets, top level 168 with 250496 states, 1s
+206/360 had32_d22_00025.txt: 165 multisets, top level 168 with 253440 states, 1s
+207/360 had32_d22_00040.txt: 166 multisets, top level 168 with 267776 states, 1s
+208/360 had32_d22_00055.txt: 165 multisets, top level 168 with 261632 states, 1s
+209/360 had32_d22_00070.txt: 166 multisets, top level 168 with 268288 states, 1s
+210/360 had32_d22_00085.txt: 165 multisets, top level 168 with 268928 states, 1s
+211/360 had32_d22_00100.txt: 166 multisets, top level 168 with 259840 states, 1s
+212/360 had32_d22_00115.txt: 164 multisets, top level 168 with 254720 states, 1s
+213/360 had32_d22_00130.txt: 165 multisets, top level 168 with 257536 states, 1s
+214/360 had32_d22_00145.txt: 166 multisets, top level 168 with 252416 states, 1s
+215/360 had32_d22_00160.txt: 165 multisets, top level 168 with 248832 states, 1s
+216/360 had32_d22_00175.txt: 165 multisets, top level 168 with 264704 states, 1s
+217/360 had32_d22_00190.txt: 164 multisets, top level 168 with 265728 states, 1s
+218/360 had32_d22_00205.txt: 166 multisets, top level 168 with 236800 states, 1s
+219/360 had32_d22_00220.txt: 166 multisets, top level 168 with 254464 states, 1s
+220/360 had32_d22_00235.txt: 162 multisets, top level 168 with 237824 states, 1s
+221/360 had32_d22_00250.txt: 165 multisets, top level 168 with 271488 states, 1s
+222/360 had32_d22_00265.txt: 166 multisets, top level 168 with 255104 states, 1s
+223/360 had32_d22_00280.txt: 165 multisets, top level 168 with 258560 states, 1s
+224/360 had32_d22_00295.txt: 166 multisets, top level 168 with 262144 states, 1s
+225/360 had32_d22_00310.txt: 166 multisets, top level 168 with 265728 states, 1s
+226/360 had32_d22_00325.txt: 166 multisets, top level 168 with 258048 states, 1s
+227/360 had32_d22_00340.txt: 166 multisets, top level 168 with 250240 states, 1s
+228/360 had32_d22_00355.txt: 165 multisets, top level 168 with 276352 states, 1s
+229/360 had32_d22_00370.txt: 165 multisets, top level 168 with 261248 states, 1s
+230/360 had32_d22_00385.txt: 165 multisets, top level 168 with 241920 states, 1s
+231/360 had32_d23_00011.txt: 166 multisets, top level 168 with 258304 states, 1s
+232/360 had32_d23_00026.txt: 166 multisets, top level 168 with 278016 states, 1s
+233/360 had32_d23_00041.txt: 166 multisets, top level 168 with 253824 states, 1s
+234/360 had32_d23_00056.txt: 166 multisets, top level 168 with 263808 states, 1s
+235/360 had32_d23_00071.txt: 165 multisets, top level 168 with 282496 states, 1s
+236/360 had32_d23_00086.txt: 166 multisets, top level 168 with 251008 states, 1s
+237/360 had32_d23_00101.txt: 165 multisets, top level 168 with 276224 states, 2s
+238/360 had32_d23_00116.txt: 166 multisets, top level 168 with 263552 states, 2s
+239/360 had32_d23_00131.txt: 165 multisets, top level 168 with 264704 states, 2s
+240/360 had32_d23_00146.txt: 166 multisets, top level 168 with 270848 states, 2s
+241/360 had32_d23_00161.txt: 166 multisets, top level 168 with 267776 states, 2s
+242/360 had32_d23_00176.txt: 165 multisets, top level 168 with 263424 states, 2s
+243/360 had32_d23_00191.txt: 165 multisets, top level 168 with 268928 states, 2s
+244/360 had32_d23_00206.txt: 166 multisets, top level 168 with 266496 states, 2s
+245/360 had32_d23_00221.txt: 166 multisets, top level 168 with 260608 states, 2s
+246/360 had32_d23_00236.txt: 165 multisets, top level 168 with 262912 states, 2s
+247/360 had32_d23_00251.txt: 165 multisets, top level 168 with 260608 states, 2s
+248/360 had32_d23_00266.txt: 164 multisets, top level 168 with 284672 states, 2s
+249/360 had32_d23_00281.txt: 165 multisets, top level 168 with 274688 states, 2s
+250/360 had32_d23_00296.txt: 165 multisets, top level 168 with 278528 states, 2s
+251/360 had32_d23_00311.txt: 166 multisets, top level 168 with 272000 states, 2s
+252/360 had32_d23_00326.txt: 166 multisets, top level 168 with 259328 states, 2s
+253/360 had32_d23_00341.txt: 165 multisets, top level 168 with 273024 states, 2s
+254/360 had32_d23_00356.txt: 166 multisets, top level 168 with 253440 states, 2s
+255/360 had32_d23_00371.txt: 166 multisets, top level 168 with 244864 states, 2s
+256/360 had32_d24_00012.txt: 165 multisets, top level 168 with 250624 states, 2s
+257/360 had32_d24_00027.txt: 165 multisets, top level 168 with 262528 states, 2s
+258/360 had32_d24_00042.txt: 166 multisets, top level 168 with 243712 states, 2s
+259/360 had32_d24_00057.txt: 166 multisets, top level 168 with 268032 states, 2s
+260/360 had32_d24_00072.txt: 166 multisets, top level 168 with 264960 states, 2s
+261/360 had32_d24_00087.txt: 166 multisets, top level 168 with 262656 states, 2s
+262/360 had32_d24_00102.txt: 165 multisets, top level 168 with 262144 states, 2s
+263/360 had32_d24_00117.txt: 166 multisets, top level 168 with 272640 states, 2s
+264/360 had32_d24_00132.txt: 166 multisets, top level 168 with 276352 states, 2s
+265/360 had32_d24_00147.txt: 166 multisets, top level 168 with 262912 states, 2s
+266/360 had32_d24_00162.txt: 166 multisets, top level 168 with 266752 states, 2s
+267/360 had32_d24_00177.txt: 165 multisets, top level 168 with 284544 states, 2s
+268/360 had32_d24_00192.txt: 165 multisets, top level 168 with 274560 states, 2s
+269/360 had32_d24_00207.txt: 166 multisets, top level 168 with 261888 states, 2s
+270/360 had32_d24_00222.txt: 166 multisets, top level 168 with 266752 states, 2s
+271/360 had32_d24_00237.txt: 166 multisets, top level 168 with 262784 states, 2s
+272/360 had32_d24_00252.txt: 166 multisets, top level 168 with 277504 states, 2s
+273/360 had32_d24_00267.txt: 165 multisets, top level 168 with 253696 states, 2s
+274/360 had32_d24_00282.txt: 165 multisets, top level 168 with 261120 states, 2s
+275/360 had32_d24_00297.txt: 165 multisets, top level 168 with 261120 states, 2s
+276/360 had32_d24_00312.txt: 166 multisets, top level 168 with 257152 states, 2s
+277/360 had32_d24_00327.txt: 166 multisets, top level 168 with 278144 states, 2s
+278/360 had32_d24_00342.txt: 165 multisets, top level 168 with 254976 states, 2s
+279/360 had32_d24_00357.txt: 166 multisets, top level 168 with 263808 states, 2s
+280/360 had32_d24_00372.txt: 166 multisets, top level 168 with 274688 states, 2s
+281/360 had32_d24_00387.txt: 165 multisets, top level 168 with 264704 states, 2s
+282/360 had32_d33_00013.txt: 166 multisets, top level 168 with 252160 states, 2s
+283/360 had32_d33_00028.txt: 166 multisets, top level 168 with 272640 states, 2s
+284/360 had32_d33_00043.txt: 164 multisets, top level 168 with 279040 states, 2s
+285/360 had32_d33_00058.txt: 166 multisets, top level 168 with 267904 states, 2s
+286/360 had32_d33_00073.txt: 166 multisets, top level 168 with 270592 states, 2s
+287/360 had32_d33_00088.txt: 165 multisets, top level 168 with 268032 states, 2s
+288/360 had32_d33_00103.txt: 166 multisets, top level 168 with 268288 states, 2s
+289/360 had32_d33_00118.txt: 166 multisets, top level 168 with 274176 states, 2s
+290/360 had32_d33_00133.txt: 166 multisets, top level 168 with 280576 states, 2s
+291/360 had32_d33_00148.txt: 166 multisets, top level 168 with 267520 states, 2s
+292/360 had32_d33_00163.txt: 165 multisets, top level 168 with 277504 states, 2s
+293/360 had32_d33_00178.txt: 166 multisets, top level 168 with 276992 states, 2s
+294/360 had32_d33_00193.txt: 166 multisets, top level 168 with 271488 states, 2s
+295/360 had32_d33_00208.txt: 166 multisets, top level 168 with 273664 states, 2s
+296/360 had32_d33_00223.txt: 164 multisets, top level 168 with 270848 states, 2s
+297/360 had32_d33_00253.txt: 166 multisets, top level 168 with 271616 states, 2s
+298/360 had32_d33_00268.txt: 166 multisets, top level 168 with 271104 states, 2s
+299/360 had32_d33_00283.txt: 166 multisets, top level 168 with 278784 states, 2s
+300/360 had32_d33_00298.txt: 166 multisets, top level 168 with 260480 states, 2s
+301/360 had32_d33_00328.txt: 165 multisets, top level 168 with 276608 states, 2s
+302/360 had32_d33_00343.txt: 163 multisets, top level 168 with 247296 states, 2s
+303/360 had32_d33_00358.txt: 164 multisets, top level 168 with 279808 states, 2s
+304/360 had32_d33_00373.txt: 166 multisets, top level 168 with 270592 states, 2s
+305/360 had32_d33_00388.txt: 164 multisets, top level 168 with 282112 states, 2s
+306/360 had32_d34_00014.txt: 166 multisets, top level 168 with 269696 states, 2s
+307/360 had32_d34_00029.txt: 164 multisets, top level 168 with 275968 states, 2s
+308/360 had32_d34_00044.txt: 166 multisets, top level 168 with 267776 states, 2s
+309/360 had32_d34_00059.txt: 164 multisets, top level 168 with 275712 states, 2s
+310/360 had32_d34_00074.txt: 165 multisets, top level 168 with 283264 states, 2s
+311/360 had32_d34_00089.txt: 166 multisets, top level 168 with 268288 states, 2s
+312/360 had32_d34_00104.txt: 166 multisets, top level 168 with 250496 states, 2s
+313/360 had32_d34_00119.txt: 166 multisets, top level 168 with 279552 states, 2s
+314/360 had32_d34_00149.txt: 164 multisets, top level 168 with 268288 states, 2s
+315/360 had32_d34_00164.txt: 164 multisets, top level 168 with 287872 states, 2s
+316/360 had32_d34_00179.txt: 164 multisets, top level 168 with 262400 states, 2s
+317/360 had32_d34_00194.txt: 166 multisets, top level 168 with 278144 states, 2s
+318/360 had32_d34_00209.txt: 164 multisets, top level 168 with 277376 states, 2s
+319/360 had32_d34_00224.txt: 166 multisets, top level 168 with 272384 states, 2s
+320/360 had32_d34_00239.txt: 166 multisets, top level 168 with 263296 states, 2s
+321/360 had32_d34_00254.txt: 166 multisets, top level 168 with 270464 states, 2s
+322/360 had32_d34_00269.txt: 164 multisets, top level 168 with 263552 states, 2s
+323/360 had32_d34_00284.txt: 164 multisets, top level 168 with 271488 states, 2s
+324/360 had32_d34_00299.txt: 164 multisets, top level 168 with 269696 states, 2s
+325/360 had32_d34_00314.txt: 165 multisets, top level 168 with 284672 states, 2s
+326/360 had32_d34_00329.txt: 166 multisets, top level 168 with 286464 states, 2s
+327/360 had32_d34_00344.txt: 164 multisets, top level 168 with 261632 states, 2s
+328/360 had32_d34_00374.txt: 164 multisets, top level 168 with 272896 states, 2s
+329/360 had32_d34_00389.txt: 164 multisets, top level 168 with 273152 states, 2s
+330/360 had32_d44_00015.txt: 164 multisets, top level 168 with 266752 states, 2s
+331/360 had32_d44_00030.txt: 165 multisets, top level 168 with 272896 states, 2s
+332/360 had32_d44_00045.txt: 165 multisets, top level 168 with 262144 states, 2s
+333/360 had32_d44_00060.txt: 165 multisets, top level 168 with 270208 states, 2s
+334/360 had32_d44_00075.txt: 166 multisets, top level 168 with 271488 states, 2s
+335/360 had32_d44_00090.txt: 164 multisets, top level 168 with 272768 states, 2s
+336/360 had32_d44_00105.txt: 165 multisets, top level 168 with 273408 states, 2s
+337/360 had32_d44_00120.txt: 163 multisets, top level 168 with 279424 states, 2s
+338/360 had32_d44_00135.txt: 164 multisets, top level 168 with 267648 states, 2s
+339/360 had32_d44_00150.txt: 166 multisets, top level 168 with 280448 states, 2s
+340/360 had32_d44_00165.txt: 164 multisets, top level 168 with 264064 states, 2s
+341/360 had32_d44_00180.txt: 166 multisets, top level 168 with 279296 states, 2s
+342/360 had32_d44_00195.txt: 165 multisets, top level 168 with 271232 states, 2s
+343/360 had32_d44_00210.txt: 165 multisets, top level 168 with 265472 states, 2s
+344/360 had32_d44_00225.txt: 166 multisets, top level 168 with 271616 states, 2s
+345/360 had32_d44_00240.txt: 164 multisets, top level 168 with 262400 states, 2s
+346/360 had32_d44_00255.txt: 165 multisets, top level 168 with 282112 states, 2s
+347/360 had32_d44_00270.txt: 166 multisets, top level 168 with 264448 states, 2s
+348/360 had32_d44_00285.txt: 166 multisets, top level 168 with 270976 states, 2s
+349/360 had32_d44_00300.txt: 165 multisets, top level 168 with 280064 states, 2s
+350/360 had32_d44_00315.txt: 166 multisets, top level 168 with 264704 states, 2s
+351/360 had32_d44_00330.txt: 166 multisets, top level 168 with 272384 states, 2s
+352/360 had32_d44_00345.txt: 164 multisets, top level 168 with 264192 states, 2s
+353/360 had32_d44_00360.txt: 164 multisets, top level 168 with 282880 states, 2s
+354/360 had32_d44_00375.txt: 166 multisets, top level 168 with 267776 states, 2s
+355/360 had32_d44_00390.txt: 166 multisets, top level 168 with 274432 states, 2s
+356/360 had32_kron1.txt: 85 multisets, top level 164 with 3145728 states, 2s
+357/360 had32_kron2.txt: 85 multisets, top level 164 with 4718592 states, 2s
+358/360 had32_kron3.txt: 85 multisets, top level 164 with 5505024 states, 2s
+359/360 had32_paley.txt: 124 multisets, top level 172 with 5952 states, 2s
+360/360 had32_walsh.txt: 40 multisets, top level 160 with 351723520 states, 2s
+
+moments up to E(Omega^14) identical for all 360 matrices: True
+order 16 formula E(Omega^16) - E'(Omega^16) = (2^8 16!/4!)(P4 - P4') holds for all: True
+distinct values of P4: 134
+distinct densities of states: 360
+rank of the differences of the densities of states: 8
+ground state level Omega and degeneracy, with the number of matrices:
+   Omega = 172 = 0.9502 N^(3/2), 5952 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 287872 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 286464 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 284672 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 284544 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 283264 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 282880 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 282496 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 282112 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 280576 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 280448 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 280064 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 279808 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 279552 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 279424 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 279296 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 279040 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 278784 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 278528 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 278144 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 278016 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 277504 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 277376 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 276992 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 276608 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 276352 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 276224 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 275968 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 275712 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 274688 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 274560 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 274432 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 274176 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 273664 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 273408 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 273152 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 273024 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 272896 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 272768 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 272640 ground states: 3 matrices
+   Omega = 168 = 0.9281 N^(3/2), 272384 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 272000 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 271616 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 271488 ground states: 4 matrices
+   Omega = 168 = 0.9281 N^(3/2), 271232 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 271104 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 270976 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 270848 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 270592 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 270464 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 270208 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 269696 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 268928 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 268288 ground states: 4 matrices
+   Omega = 168 = 0.9281 N^(3/2), 268032 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 267904 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 267776 ground states: 4 matrices
+   Omega = 168 = 0.9281 N^(3/2), 267648 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 267520 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 267264 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 266752 ground states: 3 matrices
+   Omega = 168 = 0.9281 N^(3/2), 266496 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 265984 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 265728 ground states: 3 matrices
+   Omega = 168 = 0.9281 N^(3/2), 265472 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 265216 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 264960 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 264704 ground states: 4 matrices
+   Omega = 168 = 0.9281 N^(3/2), 264448 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 264192 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 264064 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 263808 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 263552 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 263424 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 263296 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 263168 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 262912 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 262784 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 262656 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 262528 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 262400 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 262144 ground states: 3 matrices
+   Omega = 168 = 0.9281 N^(3/2), 261888 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 261632 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 261376 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 261248 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 261120 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 260864 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 260608 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 260480 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 260352 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 260224 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 260096 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 259840 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 259328 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 259072 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 258816 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 258560 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 258304 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 258048 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 257792 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 257536 ground states: 4 matrices
+   Omega = 168 = 0.9281 N^(3/2), 257408 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 257152 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 255488 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 255360 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 255104 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 254976 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 254720 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 254464 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 254080 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 253952 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 253824 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 253696 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 253440 ground states: 3 matrices
+   Omega = 168 = 0.9281 N^(3/2), 252544 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 252416 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 252160 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 251648 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 251392 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 251136 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 251008 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 250880 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 250752 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 250624 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 250496 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 250368 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 250240 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 250112 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 249344 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 248832 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 248448 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 248320 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 248192 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 247808 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 247552 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 247296 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 247168 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 246656 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 246272 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 246016 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 245888 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 245632 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 245248 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 244864 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 244736 ground states: 4 matrices
+   Omega = 168 = 0.9281 N^(3/2), 243968 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 243712 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 243456 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 243200 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 242688 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 242432 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 241920 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 241536 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 241152 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 240640 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 240128 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 238464 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 238080 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 237824 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 237568 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 237056 ground states: 3 matrices
+   Omega = 168 = 0.9281 N^(3/2), 236800 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 236544 ground states: 3 matrices
+   Omega = 168 = 0.9281 N^(3/2), 236032 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 235648 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 234752 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 234496 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 234112 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 233984 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 233856 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 233472 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 232960 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 232448 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 231424 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 231168 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 230912 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 229376 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 228352 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 226816 ground states: 3 matrices
+   Omega = 168 = 0.9281 N^(3/2), 226432 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 226304 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 225792 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 225280 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 224768 ground states: 3 matrices
+   Omega = 168 = 0.9281 N^(3/2), 224512 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 224256 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 223488 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 221696 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 221184 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 220928 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 220672 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 220160 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 219648 ground states: 4 matrices
+   Omega = 168 = 0.9281 N^(3/2), 219136 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 218624 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 218112 ground states: 3 matrices
+   Omega = 168 = 0.9281 N^(3/2), 217600 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 216576 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 216064 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 215552 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 215040 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 214272 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 214016 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 213504 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 212992 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 211968 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 210944 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 208384 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 207872 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 206336 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 205312 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 204288 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 202752 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 202240 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 200704 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 199168 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 197120 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 192000 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 191488 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 189952 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 187392 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 186368 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 182272 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 179200 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 178176 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 177152 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 173056 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 171008 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 170496 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 168960 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 165888 ground states: 3 matrices
+   Omega = 168 = 0.9281 N^(3/2), 164864 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 161792 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 158720 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 151552 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 144384 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 130048 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 122880 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 114688 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 111616 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 106496 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 98304 ground states: 3 matrices
+   Omega = 168 = 0.9281 N^(3/2), 90112 ground states: 2 matrices
+   Omega = 168 = 0.9281 N^(3/2), 73728 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 65536 ground states: 1 matrices
+   Omega = 168 = 0.9281 N^(3/2), 57344 ground states: 1 matrices
+   Omega = 164 = 0.9060 N^(3/2), 5505024 ground states: 1 matrices
+   Omega = 164 = 0.9060 N^(3/2), 4718592 ground states: 1 matrices
+   Omega = 164 = 0.9060 N^(3/2), 3145728 ground states: 1 matrices
+   Omega = 160 = 0.8839 N^(3/2), 351723520 ground states: 1 matrices

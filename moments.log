@@ -1,0 +1,25 @@
+walsh2    E(Omega^2)=4  E(Omega^4)=16  4-profile {}
+walsh4    E(Omega^2)=16  E(Omega^4)=448  4-profile {4: 1}
+walsh8    E(Omega^2)=64  E(Omega^4)=9472  4-profile {0: 56, 8: 14}
+had12     E(Omega^2)=144  E(Omega^4)=52416  4-profile {4: 495}
+had16_0   E(Omega^2)=256  E(Omega^4)=173056  4-profile {0: 1680, 16: 140}
+had16_1   E(Omega^2)=256  E(Omega^4)=173056  4-profile {0: 1488, 8: 256, 16: 76}
+had16_2   E(Omega^2)=256  E(Omega^4)=173056  4-profile {0: 1392, 8: 384, 16: 44}
+had16_3   E(Omega^2)=256  E(Omega^4)=173056  4-profile {0: 1344, 8: 448, 16: 28}
+had16_4   E(Omega^2)=256  E(Omega^4)=173056  4-profile {0: 1344, 8: 448, 16: 28}
+had20_0   E(Omega^2)=400  E(Omega^4)=433600  4-profile {4: 4560, 12: 285}
+had20_1   E(Omega^2)=400  E(Omega^4)=433600  4-profile {4: 4560, 12: 285}
+had20_2   E(Omega^2)=400  E(Omega^4)=433600  4-profile {4: 4560, 12: 285}
+
+N=16: had16_1 vs had16_0: first different moment E(Omega^16); difference at 16: -702052330547183616000, predicted by the profile: -702052330547183616000, equal: True
+N=16: had16_2 vs had16_0: first different moment E(Omega^16); difference at 16: -1053078495820775424000, predicted by the profile: -1053078495820775424000, equal: True
+N=16: had16_3 vs had16_0: first different moment E(Omega^16); difference at 16: -1228591578457571328000, predicted by the profile: -1228591578457571328000, equal: True
+N=16: had16_4 vs had16_0: first different moment E(Omega^16); difference at 16: -1228591578457571328000, predicted by the profile: -1228591578457571328000, equal: True
+N=20: had20_1 vs had20_0: first different moment none up to E(Omega^20); difference at 16: 0, predicted by the profile: 0, equal: True
+N=20: had20_2 vs had20_0: first different moment none up to E(Omega^20); difference at 16: 0, predicted by the profile: 0, equal: True
+N=2: E(Omega^4) = 16, 3N^4-6N^3+4N^2 = 16
+N=4: E(Omega^4) = 448, 3N^4-6N^3+4N^2 = 448
+N=8: E(Omega^4) = 9472, 3N^4-6N^3+4N^2 = 9472
+N=12: E(Omega^4) = 52416, 3N^4-6N^3+4N^2 = 52416
+N=16: E(Omega^4) = 173056, 3N^4-6N^3+4N^2 = 173056
+N=20: E(Omega^4) = 433600, 3N^4-6N^3+4N^2 = 433600

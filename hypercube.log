@@ -1,0 +1,8 @@
+D = 1: 0/0 faces frustrated, W of size 1 with W W^t = D: True, ground state energy per spin -0.5000
+D = 2: 1/1 faces frustrated, W of size 2 with W W^t = D: True, ground state energy per spin -0.3536
+D = 3: 6/6 faces frustrated, W of size 4 with W W^t = D: True, ground state energy per spin -0.4330
+D = 4: 24/24 faces frustrated, W of size 8 with W W^t = D: True, ground state energy per spin -0.5000
+D = 5: 80/80 faces frustrated, W of size 16 with W W^t = D: True, ground state energy per spin -0.4472
+D = 6: 240/240 faces frustrated, W of size 32 with W W^t = D: True
+D = 7: 672/672 faces frustrated, W of size 64 with W W^t = D: True
+D = 8: 1792/1792 faces frustrated, W of size 128 with W W^t = D: True

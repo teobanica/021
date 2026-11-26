@@ -1,0 +1,26 @@
+walsh4   N= 4: max Omega = 8 (1.0000 N^(3/2)), ground states (a,b): 8
+     |Hb| = {np.int64(2): 4}: 8 vectors b, 0 free spins each
+walsh8   N= 8: max Omega = 20 (0.8839 N^(3/2)), ground states (a,b): 128
+     |Hb| = {np.int64(2): 7, np.int64(6): 1}: 128 vectors b, 0 free spins each
+had12    N=12: max Omega = 36 (0.8660 N^(3/2)), ground states (a,b): 5280
+     |Hb| = {np.int64(0): 3, np.int64(4): 9}: 440 vectors b, 3 free spins each
+     |Hb| = {np.int64(2): 9, np.int64(6): 3}: 1760 vectors b, 0 free spins each
+had16_0  N=16: max Omega = 64 (1.0000 N^(3/2)), ground states (a,b): 896
+     |Hb| = {np.int64(4): 16}: 896 vectors b, 0 free spins each
+had16_1  N=16: max Omega = 64 (1.0000 N^(3/2)), ground states (a,b): 384
+     |Hb| = {np.int64(4): 16}: 384 vectors b, 0 free spins each
+had16_2  N=16: max Omega = 64 (1.0000 N^(3/2)), ground states (a,b): 128
+     |Hb| = {np.int64(4): 16}: 128 vectors b, 0 free spins each
+had16_3  N=16: max Omega = 56 (0.8750 N^(3/2)), ground states (a,b): 43008
+     |Hb| = {np.int64(0): 3, np.int64(4): 12, np.int64(8): 1}: 3584 vectors b, 3 free spins each
+     |Hb| = {np.int64(2): 10, np.int64(6): 6}: 14336 vectors b, 0 free spins each
+     orbits of the symmetry group on the ground states (size, free spins): [(14336, 3), (14336, 3), (14336, 0)]
+had16_4  N=16: max Omega = 56 (0.8750 N^(3/2)), ground states (a,b): 43008
+     |Hb| = {np.int64(0): 3, np.int64(4): 12, np.int64(8): 1}: 3584 vectors b, 3 free spins each
+     |Hb| = {np.int64(2): 10, np.int64(6): 6}: 14336 vectors b, 0 free spins each
+had20_0  N=20: max Omega = 80 (0.8944 N^(3/2)), ground states (a,b): 40128
+     |Hb| = {np.int64(2): 10, np.int64(6): 10}: 40128 vectors b, 0 free spins each
+had20_1  N=20: max Omega = 80 (0.8944 N^(3/2)), ground states (a,b): 40128
+     |Hb| = {np.int64(2): 10, np.int64(6): 10}: 40128 vectors b, 0 free spins each
+had20_2  N=20: max Omega = 80 (0.8944 N^(3/2)), ground states (a,b): 40128
+     |Hb| = {np.int64(2): 10, np.int64(6): 10}: 40128 vectors b, 0 free spins each

@@ -1,0 +1,5 @@
+N = 36: 9 matrices, 9 distinct densities of states
+rank of the differences of the densities of states: 8
+first differing moment, over the 36 pairs of distinct densities of states: {16: 36}
+rank of the differences of the moments of order 16, 18, 20, 22: 2
+N = 36: rank with the crystal vector (x^6 - x^-6)^36 added: 9

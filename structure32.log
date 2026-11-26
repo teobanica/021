@@ -1,0 +1,4 @@
+N = 32: 360 matrices, 360 distinct densities of states
+rank of the differences of the densities of states: 8
+first differing moment, over the 64620 pairs of distinct densities of states: {16: 64116, 24: 494, 28: 9, 32: 1}
+rank of the differences of the moments of order 16, 18, 20, 22: 1

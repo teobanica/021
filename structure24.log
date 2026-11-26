@@ -1,0 +1,7 @@
+N = 24: 60 matrices, 27 distinct densities of states
+rank of the differences of the densities of states: 2
+first differing moment, over the 351 pairs of distinct densities of states: {16: 330, 24: 21}
+rank of the differences of the moments of order 16, 18, 20, 22: 1
+N = 24: n_H = A + n_H(112) V + P4(H) U, with V from (x^4 - x^-4)^20 (x^8 - x^-8)^4, holds for all: True
+   17 values of P4, 24 values of n_H(112), 27 pairs
+   U(w) for w = 0, 4, ..., 108: ['1373/8', '995/48', '-9193/128', '-5863/192', '-171/2', '-581/256', '53617/512', '9601/384', '-535/32', '-4657/384', '-17963/512', '-5951/768', '77/4', '3887/384', '1013/256', '-59/24', '-85/16', '-89/48', '-179/256', '197/128', '9/4', '-337/768', '-541/512', '13/384', '7/32', '1/128', '-9/512', '-1/768']

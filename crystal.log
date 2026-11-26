@@ -1,0 +1,26 @@
+order 16: crystallization temperature T_c, against the maximum of the exact specific heat
+  had16_0: c_H =  896, log(c_H)/N = 0.4249, T_c = 0.4438, specific heat maximum 1.0212 at T = 0.4510
+  had16_1: c_H =  384, log(c_H)/N = 0.3719, T_c = 0.3944, specific heat maximum 0.9868 at T = 0.4000
+  had16_2: c_H =  128, log(c_H)/N = 0.3033, T_c = 0.3391, specific heat maximum 0.9710 at T = 0.3350
+  had16_3: no crystalline state, broad maximum of the specific heat 0.3960 at T = 0.4635
+
+W_16: number of b with |(Wb)_j| = 4 for all j: 896 (bent functions in 4 variables: 896), self-dual ones, with Wb = 4b: 20
+
+Walsh matrices: c_H = number of bent functions
+  N =  16: log2(c_H) =    9.807, log(c_H)/N = 0.4249, T_c = 0.4438
+  N =  64: log2(c_H) =   32.337, log(c_H)/N = 0.3502, T_c = 0.3759
+  N = 256: log2(c_H) =  106.291, log(c_H)/N = 0.2878, T_c = 0.3278
+
+N -> infinity: log(c_H)/N between 0 and (11/32) log 2 = 0.2383 (Potapov), so T_c is between 0.1776 and 0.2945
+for comparison: entropy crisis 1/sqrt(240) = 0.0645
+
+order 36: crystallization temperature T_c, against the maximum of the exact specific heat
+  had36_latin00: c_H =  6660, T_c = 0.2985, specific heat maximum 1.936 at T = 0.2975
+  had36_latin01: c_H =  7594, T_c = 0.3009, specific heat maximum 1.971 at T = 0.2995
+  had36_latin02: c_H =  9792, T_c = 0.3055, specific heat maximum 1.964 at T = 0.3040
+  had36_latin03: c_H = 10656, T_c = 0.3070, specific heat maximum 1.949 at T = 0.3060
+  had36_latin04: c_H =  7120, T_c = 0.2997, specific heat maximum 1.963 at T = 0.2980
+  had36_latin05: c_H =  8096, T_c = 0.3020, specific heat maximum 1.969 at T = 0.3005
+  had36_latin06: c_H = 46880, T_c = 0.3358, specific heat maximum 1.825 at T = 0.3360
+  had36_latin07: c_H =  7460, T_c = 0.3005, specific heat maximum 1.891 at T = 0.3000
+  had36_paley: c_H =   816, T_c = 0.2633, specific heat maximum 2.097 at T = 0.2610

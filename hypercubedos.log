@@ -1,0 +1,5 @@
+D = 2: N = 2, 2 levels, ground states at m = 0.7071, 8 of them, specific heat maximum 0.220 at T = 1.1790
+D = 3: N = 4, 7 levels, ground states at m = 0.8660, 16 of them, specific heat maximum 0.341 at T = 0.5165
+D = 4: N = 8, 9 levels, ground states at m = 1.0000, 16 of them, specific heat maximum 0.896 at T = 0.3705, crystallization temperature T_c = 0.3729
+D = 5: N = 16, 33 levels, ground states at m = 0.8944, 10240 of them, specific heat maximum 0.376 at T = 0.4240
+D = 6: N = 32, 37 levels, ground states at m = 0.9186, 5816320 of them, specific heat maximum 0.480 at T = 0.2585

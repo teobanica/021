@@ -1,0 +1,23 @@
+N =  4:   1 matrices, r =  2, p_4 = p_12 = 3/8, p_0 - p_8 = 1/8, formula 1/8
+N =  8:   1 matrices, r =  3, p_4 = p_12 = 1/8, p_0 - p_8 = -3/32, formula -3/32
+N = 12:   1 matrices, r = 10, p_4 = p_12 = 3/8, p_0 - p_8 = -1/128, formula -1/128
+N = 16:   5 matrices, r =  4, p_4 = p_12 = 1/8, p_0 - p_8 = 5/256, formula 5/256
+N = 16:   5 matrices, r =  5, p_4 = p_12 = 1/8, p_0 - p_8 = 3/256, formula 3/256
+N = 16:   5 matrices, r =  6, p_4 = p_12 = 1/8, p_0 - p_8 = 1/128, formula 1/128
+N = 16:   5 matrices, r =  7, p_4 = p_12 = 1/8, p_0 - p_8 = 3/512, formula 3/512
+N = 20:   3 matrices, r = 18, p_4 = p_12 = 3/8, p_0 - p_8 = 1/2048, formula 1/2048
+N = 24:  60 matrices, r = 11, p_4 = p_12 = 1/8, p_0 - p_8 = -3/8192, formula -3/8192
+N = 28: 487 matrices, r = 26, p_4 = p_12 = 3/8, p_0 - p_8 = -1/32768, formula -1/32768
+N = 32: 360 matrices, r =  5, p_4 = p_12 = 1/8, p_0 - p_8 = 513/65536, formula 513/65536
+N = 32: 360 matrices, r =  6, p_4 = p_12 = 1/8, p_0 - p_8 = 257/65536, formula 257/65536
+N = 32: 360 matrices, r =  7, p_4 = p_12 = 1/8, p_0 - p_8 = 129/65536, formula 129/65536
+N = 32: 360 matrices, r =  8, p_4 = p_12 = 1/8, p_0 - p_8 = 65/65536, formula 65/65536
+N = 32: 360 matrices, r =  9, p_4 = p_12 = 1/8, p_0 - p_8 = 33/65536, formula 33/65536
+N = 32: 360 matrices, r = 10, p_4 = p_12 = 1/8, p_0 - p_8 = 17/65536, formula 17/65536
+N = 32: 360 matrices, r = 11, p_4 = p_12 = 1/8, p_0 - p_8 = 9/65536, formula 9/65536
+N = 32: 360 matrices, r = 12, p_4 = p_12 = 1/8, p_0 - p_8 = 5/65536, formula 5/65536
+N = 32: 360 matrices, r = 13, p_4 = p_12 = 1/8, p_0 - p_8 = 3/65536, formula 3/65536
+N = 32: 360 matrices, r = 14, p_4 = p_12 = 1/8, p_0 - p_8 = 1/32768, formula 1/32768
+N = 32: 360 matrices, r = 15, p_4 = p_12 = 1/8, p_0 - p_8 = 3/131072, formula 3/131072
+N = 36:   9 matrices, r = 34, p_4 = p_12 = 3/8, p_0 - p_8 = 1/524288, formula 1/524288
+all the formulas hold, and for N <= 20 the imaginary temperature formula holds too

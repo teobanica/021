@@ -1,0 +1,111 @@
+1/60 had24_00.txt: 33 multisets, top level 112 with 19008 states, 0s
+2/60 had24_01.txt: 38 multisets, top level 112 with 3840 states, 0s
+3/60 had24_02.txt: 38 multisets, top level 112 with 2240 states, 0s
+4/60 had24_03.txt: 38 multisets, top level 112 with 2240 states, 0s
+5/60 had24_04.txt: 38 multisets, top level 112 with 1440 states, 0s
+6/60 had24_05.txt: 38 multisets, top level 112 with 1440 states, 0s
+7/60 had24_06.txt: 38 multisets, top level 112 with 640 states, 0s
+8/60 had24_07.txt: 38 multisets, top level 112 with 640 states, 0s
+9/60 had24_08.txt: 37 multisets, top level 112 with 5184 states, 0s
+10/60 had24_09.txt: 38 multisets, top level 112 with 2240 states, 0s
+11/60 had24_10.txt: 38 multisets, top level 112 with 2240 states, 0s
+12/60 had24_11.txt: 35 multisets, top level 112 with 3456 states, 0s
+13/60 had24_12.txt: 38 multisets, top level 112 with 1280 states, 0s
+14/60 had24_13.txt: 38 multisets, top level 112 with 768 states, 0s
+15/60 had24_14.txt: 38 multisets, top level 112 with 1216 states, 0s
+16/60 had24_15.txt: 38 multisets, top level 112 with 320 states, 0s
+17/60 had24_16.txt: 38 multisets, top level 112 with 768 states, 0s
+18/60 had24_17.txt: 38 multisets, top level 112 with 1344 states, 0s
+19/60 had24_18.txt: 38 multisets, top level 112 with 192 states, 0s
+20/60 had24_19.txt: 38 multisets, top level 112 with 1312 states, 0s
+21/60 had24_20.txt: 38 multisets, top level 112 with 832 states, 0s
+22/60 had24_21.txt: 38 multisets, top level 112 with 352 states, 0s
+23/60 had24_22.txt: 35 multisets, top level 112 with 5184 states, 0s
+24/60 had24_23.txt: 38 multisets, top level 112 with 864 states, 0s
+25/60 had24_24.txt: 38 multisets, top level 112 with 384 states, 0s
+26/60 had24_25.txt: 38 multisets, top level 112 with 864 states, 0s
+27/60 had24_26.txt: 38 multisets, top level 112 with 1344 states, 0s
+28/60 had24_27.txt: 37 multisets, top level 112 with 3456 states, 0s
+29/60 had24_28.txt: 37 multisets, top level 112 with 3456 states, 0s
+30/60 had24_29.txt: 38 multisets, top level 112 with 1440 states, 0s
+31/60 had24_30.txt: 38 multisets, top level 112 with 1440 states, 0s
+32/60 had24_31.txt: 38 multisets, top level 112 with 768 states, 0s
+33/60 had24_32.txt: 38 multisets, top level 112 with 768 states, 0s
+34/60 had24_33.txt: 35 multisets, top level 112 with 1728 states, 0s
+35/60 had24_34.txt: 38 multisets, top level 112 with 832 states, 0s
+36/60 had24_35.txt: 38 multisets, top level 112 with 864 states, 0s
+37/60 had24_36.txt: 38 multisets, top level 112 with 864 states, 0s
+38/60 had24_37.txt: 38 multisets, top level 112 with 432 states, 0s
+39/60 had24_38.txt: 38 multisets, top level 112 with 432 states, 0s
+40/60 had24_39.txt: 38 multisets, top level 112 with 432 states, 0s
+41/60 had24_40.txt: 38 multisets, top level 112 with 496 states, 0s
+42/60 had24_41.txt: 38 multisets, top level 112 with 192 states, 0s
+43/60 had24_42.txt: 38 multisets, top level 112 with 512 states, 0s
+44/60 had24_43.txt: 37 multisets, top level 112 with 1728 states, 0s
+45/60 had24_44.txt: 35 multisets, top level 112 with 8640 states, 0s
+46/60 had24_45.txt: 37 multisets, top level 112 with 1728 states, 0s
+47/60 had24_46.txt: 38 multisets, top level 112 with 640 states, 0s
+48/60 had24_47.txt: 38 multisets, top level 112 with 640 states, 0s
+49/60 had24_48.txt: 38 multisets, top level 112 with 320 states, 0s
+50/60 had24_49.txt: 38 multisets, top level 112 with 192 states, 0s
+51/60 had24_50.txt: 38 multisets, top level 112 with 352 states, 0s
+52/60 had24_51.txt: 38 multisets, top level 112 with 384 states, 0s
+53/60 had24_52.txt: 38 multisets, top level 112 with 192 states, 0s
+54/60 had24_53.txt: 34 multisets, top level 108 with 7040 states, 0s
+55/60 had24_54.txt: 37 multisets, top level 108 with 25472 states, 0s
+56/60 had24_55.txt: 35 multisets, top level 112 with 1728 states, 0s
+57/60 had24_56.txt: 26 multisets, top level 108 with 32384 states, 0s
+58/60 had24_57.txt: 35 multisets, top level 112 with 3456 states, 0s
+59/60 had24_58.txt: 29 multisets, top level 108 with 7040 states, 0s
+60/60 had24_59.txt: 37 multisets, top level 112 with 8640 states, 0s
+
+moments up to E(Omega^14) identical for all 60 matrices: True
+order 16 formula E(Omega^16) - E'(Omega^16) = (2^8 16!/4!)(P4 - P4') holds for all: True
+distinct values of P4: 17
+distinct densities of states: 27
+   same density of states: had24_02 had24_03 had24_09 had24_10
+   same density of states: had24_04 had24_05 had24_29 had24_30
+   same density of states: had24_06 had24_07 had24_46 had24_47
+   same density of states: had24_08 had24_22
+   same density of states: had24_11 had24_27 had24_28 had24_57
+   same density of states: had24_13 had24_16 had24_31 had24_32
+   same density of states: had24_15 had24_48
+   same density of states: had24_17 had24_26
+   same density of states: had24_18 had24_49
+   same density of states: had24_20 had24_34
+   same density of states: had24_21 had24_50
+   same density of states: had24_23 had24_25 had24_35 had24_36
+   same density of states: had24_24 had24_51
+   same density of states: had24_33 had24_43 had24_45 had24_55
+   same density of states: had24_37 had24_38 had24_39
+   same density of states: had24_41 had24_52
+   same density of states: had24_44 had24_59
+   same density of states: had24_53 had24_58
+rank of the differences of the densities of states: 2
+ground state level Omega and degeneracy, with the number of matrices:
+   Omega = 112 = 0.9526 N^(3/2), 19008 ground states: 1 matrices
+   Omega = 112 = 0.9526 N^(3/2), 8640 ground states: 2 matrices
+   Omega = 112 = 0.9526 N^(3/2), 5184 ground states: 2 matrices
+   Omega = 112 = 0.9526 N^(3/2), 3840 ground states: 1 matrices
+   Omega = 112 = 0.9526 N^(3/2), 3456 ground states: 4 matrices
+   Omega = 112 = 0.9526 N^(3/2), 2240 ground states: 4 matrices
+   Omega = 112 = 0.9526 N^(3/2), 1728 ground states: 4 matrices
+   Omega = 112 = 0.9526 N^(3/2), 1440 ground states: 4 matrices
+   Omega = 112 = 0.9526 N^(3/2), 1344 ground states: 2 matrices
+   Omega = 112 = 0.9526 N^(3/2), 1312 ground states: 1 matrices
+   Omega = 112 = 0.9526 N^(3/2), 1280 ground states: 1 matrices
+   Omega = 112 = 0.9526 N^(3/2), 1216 ground states: 1 matrices
+   Omega = 112 = 0.9526 N^(3/2), 864 ground states: 4 matrices
+   Omega = 112 = 0.9526 N^(3/2), 832 ground states: 2 matrices
+   Omega = 112 = 0.9526 N^(3/2), 768 ground states: 4 matrices
+   Omega = 112 = 0.9526 N^(3/2), 640 ground states: 4 matrices
+   Omega = 112 = 0.9526 N^(3/2), 512 ground states: 1 matrices
+   Omega = 112 = 0.9526 N^(3/2), 496 ground states: 1 matrices
+   Omega = 112 = 0.9526 N^(3/2), 432 ground states: 3 matrices
+   Omega = 112 = 0.9526 N^(3/2), 384 ground states: 2 matrices
+   Omega = 112 = 0.9526 N^(3/2), 352 ground states: 2 matrices
+   Omega = 112 = 0.9526 N^(3/2), 320 ground states: 2 matrices
+   Omega = 112 = 0.9526 N^(3/2), 192 ground states: 4 matrices
+   Omega = 108 = 0.9186 N^(3/2), 32384 ground states: 1 matrices
+   Omega = 108 = 0.9186 N^(3/2), 25472 ground states: 1 matrices
+   Omega = 108 = 0.9186 N^(3/2), 7040 ground states: 2 matrices

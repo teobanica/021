@@ -1,0 +1,13 @@
+walsh2    N= 2: 2 energy levels, 1 multisets of |Hb|, max Omega = 2 with 8 pairs (a,b)  [0.0s]
+walsh4    N= 4: 5 energy levels, 2 multisets of |Hb|, max Omega = 8 with 8 pairs (a,b)  [0.0s]
+walsh8    N= 8: 11 energy levels, 3 multisets of |Hb|, max Omega = 20 with 128 pairs (a,b)  [0.0s]
+had12     N=12: 19 energy levels, 5 multisets of |Hb|, max Omega = 36 with 5280 pairs (a,b)  [0.0s]
+had16_0   N=16: 31 energy levels, 8 multisets of |Hb|, max Omega = 64 with 896 pairs (a,b)  [0.1s]
+had16_1   N=16: 31 energy levels, 10 multisets of |Hb|, max Omega = 64 with 384 pairs (a,b)  [0.1s]
+had16_2   N=16: 31 energy levels, 10 multisets of |Hb|, max Omega = 64 with 128 pairs (a,b)  [0.1s]
+had16_3   N=16: 29 energy levels, 9 multisets of |Hb|, max Omega = 56 with 43008 pairs (a,b)  [0.1s]
+had16_4   N=16: 29 energy levels, 9 multisets of |Hb|, max Omega = 56 with 43008 pairs (a,b)  [0.1s]
+had20_0   N=20: 41 energy levels, 15 multisets of |Hb|, max Omega = 80 with 40128 pairs (a,b)  [1.4s]
+had20_1   N=20: 41 energy levels, 15 multisets of |Hb|, max Omega = 80 with 40128 pairs (a,b)  [1.4s]
+had20_2   N=20: 41 energy levels, 15 multisets of |Hb|, max Omega = 80 with 40128 pairs (a,b)  [1.3s]
+laws at N=20 coincide: True

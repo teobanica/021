@@ -1,0 +1,3 @@
+N = 28: 487 matrices, 294 densities of states, 294 distinct row distributions, 487 matrices with equal row and column distributions
+same density of states <=> same pair of row and column distributions: True
+pairs of matrices with the same density of states, by the finer invariant: {'undecided': 15, 'consistent with transposition only': 178}

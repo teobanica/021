@@ -1,0 +1,3 @@
+N = 24: 60 matrices, 27 densities of states, 43 distinct row distributions, 14 matrices with equal row and column distributions
+same density of states <=> same pair of row and column distributions: True
+pairs of matrices with the same density of states, by the finer invariant: {'undecided': 7, 'consistent with transposition only': 28, 'other': 16, 'not transposition': 4}

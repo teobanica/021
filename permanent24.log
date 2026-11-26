@@ -1,0 +1,6 @@
+20/60 permanents, 3s
+40/60 permanents, 6s
+60/60 permanents, 9s
+60 matrices: 27 densities of states, 27 values of |per|, 27 pairs (density, |per|)
+same density of states <=> same |per|: True
+gcd g = 37748736, values of |per|/g: [73, 567, 585, 969, 1207, 1353, 1609, 2167, 2441, 2761, 2889, 3145, 3273, 3401, 3785, 4041, 4279, 4425, 5449, 5961, 6327, 6985, 14007, 18249, 18615, 43191, 116919]
