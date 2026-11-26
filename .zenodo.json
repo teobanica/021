@@ -1,0 +1,26 @@
+ {
+  "title": "Ising spins with Hadamard couplings",
+  "description": "<p>A real Hadamard matrix <i>H</i> of order <i>N</i> defines a system of 2<i>N</i> Ising spins, carried by 2 layers of crossed wires, with couplings <i>H<sub>jk</sub></i>/&radic;<i>N</i> between the layers. This is the switching game of Gale and Berlekamp at finite temperature, and having symmetric orthogonal couplings, it is a deterministic instance of the random orthogonal model of Marinari, Parisi and Ritort. The density of states is the real glow of <i>H</i>. We show that its law modulo 16 is determined by <i>N</i> and the 2-rank <i>r</i> of <i>H</i>, that its moments are universal polynomials in <i>N</i> up to order 14, the first correction being given by the 4-profile of <i>H</i>, and that the high-temperature expansion of the free energy is universal to leading order, with a continued paramagnetic entropy which vanishes at &beta; = &radic;240. At <i>N</i> = 16 the 5 densities of states form a 1-parameter family, the parameter being the number 2<sup>14&minus;<i>r</i></sup> &minus; 128 of crystalline ground states, at <i>N</i> = 20 they coincide, and at <i>N</i> = 24, 28, 32 they form families with 2, 4 and at least 8 parameters.</p>",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [
+    {
+      "name": "Opus"
+    },
+    {
+      "name": "Banica, Teodor",
+      "affiliation": "CY Cergy Paris Université",
+      "orcid": "0000-0003-4680-0364"
+    }
+  ],
+  "keywords": [
+    "Hadamard matrix",
+    "Ising model",
+    "spin glass",
+    "random orthogonal model",
+    "density of states",
+    "Gale-Berlekamp game",
+    "bent function",
+    "crystallization"
+  ]
+}
